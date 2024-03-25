@@ -1,6 +1,6 @@
 # VScode dev container build arguments
 
-This is a small example repository to show that [buildx](https://docs.docker.com/reference/cli/docker/buildx/build/) build arguments are not working as expected when trying to open a container as a [VScode dev container](https://code.visualstudio.com/docs/remote/containers-advanced#_using-build-args).
+This is a small example repository to show that [buildx](https://docs.docker.com/reference/cli/docker/buildx/build/) build arguments are not working as expected when trying to open a [multi-platform](https://docs.docker.com/build/guide/multi-platform/#build-using-cross-compilation) container as a [VScode dev container](https://code.visualstudio.com/docs/remote/containers-advanced#_using-build-args).
 
 ## How to reproduce
 
