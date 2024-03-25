@@ -28,3 +28,6 @@ This is a small example repository to show that [buildx](https://docs.docker.com
 
    [2024-03-25T10:09:41.648Z] Error: Command failed: docker inspect --type image cuda--base
    ```
+
+> [!NOTE]
+> I also added the `Dockerfile.complicated` Dockerfile that is more close to our real-world scenario. It also fails with the same error.

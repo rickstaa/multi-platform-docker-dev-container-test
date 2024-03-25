@@ -4,6 +4,7 @@
     "name": "go-livepeer",
     "build": {
         "dockerfile": "../Dockerfile"
+        // "dockerfile": "../Dockerfile.complicated"
     }
     // "runArgs": ["--platform=linux/amd64"]
 }
