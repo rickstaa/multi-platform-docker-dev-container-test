@@ -7,7 +7,7 @@ This is a small example repository to show that [buildx](https://docs.docker.com
 1. Try to build the docker image with the following command:
 
    ```bash
-   docker build -t regular-build:test .
+   docker build --progress=plain --no-cache -t regular-build:test .
    ```
 
 2. See that it works.
